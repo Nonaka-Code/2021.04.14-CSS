@@ -1,0 +1,41 @@
+.header {
+  color: rgb(2, 2, 122);
+}
+
+.header ul{
+  font-weight: bold;
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -60px;
+}
+
+.header li {
+  padding: 0 20px;
+}
+
+.main {
+  position: relative;
+}
+
+.main__img {
+  position: absolute;
+  top: -130%;
+  left: 48%;
+  height: 500px;
+  width: 750px;
+}
+
+.main h2 {
+  font-size: 75px;
+  font-weight: lighter;
+  margin-top: 30%;
+}
+
+.main h3 {
+  height: 150px;
+  width: 75%;
+  background-color: rgb(2, 2, 122);
+;
+  margin-top: -80px;
+}
